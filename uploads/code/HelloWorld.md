@@ -1,6 +1,6 @@
 ![Hello World](/uploads/album/Hello-World.png)
 
-```
+```swift
 import SwiftUI
 
 struct ContentView: View {
