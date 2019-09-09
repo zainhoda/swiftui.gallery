@@ -1,4 +1,4 @@
-![Offset](/uploads/album/Offset.png)
+![Offset View](/uploads/album/Offset-View.png)
 
 ```swift
 import SwiftUI
