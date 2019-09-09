@@ -1,7 +1,6 @@
-# SwiftUI Gallery
-
 {% include image-gallery.html folder="/uploads/album" %}
 
+# SwiftUI Gallery
 
 ## Contributions are welcome!
 
