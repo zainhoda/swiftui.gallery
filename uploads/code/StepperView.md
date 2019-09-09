@@ -1,4 +1,4 @@
-![Stepper View](/uploads/album/StepperView.png)
+![Stepper View](/uploads/album/Stepper-View.png)
 
 ```swift
 import SwiftUI
